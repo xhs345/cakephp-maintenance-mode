@@ -14,11 +14,11 @@ CakePHP 2.*
 _[Using [Composer](http://getcomposer.org/)]_
 
 [View on Packagist](https://packagist.org/packages/awebdeveloper/cakephp-maintenance-mode), and copy
-the JSON snippet for the latest version into your project's `composer.json`. Eg, v. 1.2.0 would look like this:
+the JSON snippet for the latest version into your project's `composer.json`.
 
 	{
 		"require": {
-			"awebdeveloper/cakephp-maintenance-mode": "1.2.0"
+			"awebdeveloper/cakephp-maintenance-mode": "dev-master"
 		}
 	}
 
